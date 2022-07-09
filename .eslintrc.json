@@ -1,0 +1,21 @@
+{
+  "env": {
+    "node": true,
+    "browser": true,
+    "jest": true
+  },
+  "extends": ["next"],
+  "plugins": ["@typescript-eslint", "prettier"],
+  "rules": {
+    "prettier/prettier": "error",
+    "comma-dangle": ["error", "never"],
+    "@typescript-eslint/no-unused-vars": ["error"],
+    "import/no-anonymous-default-export": [
+      "error",
+      {
+        "allowArray": true,
+        "allowObject": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "*.t(s|sx)": [
+    "eslint --fix",
+    "npm run test:staging"
+  ]
+}

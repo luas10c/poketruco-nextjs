@@ -1,0 +1,12 @@
+version: '3'
+services:
+  nodejs:
+    container_name: nodejs
+    image: node:16-alpine
+    working_dir: /usr/app
+    volumes:
+      - .:/usr/app
+    ports:
+      - 8000:3000
+    restart: always
+    command: npm run dev
