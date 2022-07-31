@@ -29,4 +29,10 @@ describe('PokemonList Tests', () => {
     expect(screen.getByText(/bulbasaur/i)).toBeInTheDocument()
     expect(screen.getByText(/ivysaur/i)).toBeInTheDocument()
   })
+
+  it('should be loading', () => {
+    render(<PokemonList pokemons={[]} loading={true} />)
+
+    expect(screen.getAllByText(/carregando/i)[0]).toBeInTheDocument()
+  })
 })
