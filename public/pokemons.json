@@ -1,0 +1,1059 @@
+[
+  {
+    "id": 1,
+    "name": "Bulbasaur",
+    "type": "grass/poison",
+    "health": 45,
+    "attack": 49
+  },
+  {
+    "id": 2,
+    "name": "Ivysaur",
+    "type": "grass/poison",
+    "health": 60,
+    "attack": 62
+  },
+  {
+    "id": 3,
+    "name": "Venusaur",
+    "type": "grass/poison",
+    "health": 80,
+    "attack": 82
+  },
+  {
+    "id": 4,
+    "name": "Charmander",
+    "type": "fire",
+    "health": 39,
+    "attack": 52
+  },
+  {
+    "id": 5,
+    "name": "Charmeleon",
+    "type": "fire",
+    "health": 58,
+    "attack": 64
+  },
+  {
+    "id": 6,
+    "name": "Charizard",
+    "type": "fire/flying",
+    "health": 78,
+    "attack": 84
+  },
+  {
+    "id": 7,
+    "name": "Squirtle",
+    "type": "water",
+    "health": 44,
+    "attack": 48
+  },
+  {
+    "id": 8,
+    "name": "Wartortle",
+    "type": "water",
+    "health": 59,
+    "attack": 63
+  },
+  {
+    "id": 9,
+    "name": "Blastoise",
+    "type": "water",
+    "health": 79,
+    "attack": 83
+  },
+  {
+    "id": 10,
+    "name": "Caterpie",
+    "type": "bug",
+    "health": 45,
+    "attack": 30
+  },
+  {
+    "id": 11,
+    "name": "Metapod",
+    "type": "bug",
+    "health": 50,
+    "attack": 20
+  },
+  {
+    "id": 12,
+    "name": "Butterfree",
+    "type": "bug/flying",
+    "health": 60,
+    "attack": 45
+  },
+  {
+    "id": 13,
+    "name": "Weedle",
+    "type": "bug/poison",
+    "health": 40,
+    "attack": 35
+  },
+  {
+    "id": 14,
+    "name": "Kakuna",
+    "type": "bug/poison",
+    "health": 45,
+    "attack": 25
+  },
+  {
+    "id": 15,
+    "name": "Beedrill",
+    "type": "bug/poison",
+    "health": 65,
+    "attack": 90
+  },
+  {
+    "id": 16,
+    "name": "Pidgey",
+    "type": "normal/flying",
+    "health": 40,
+    "attack": 45
+  },
+  {
+    "id": 17,
+    "name": "Pidgeotto",
+    "type": "normal/flying",
+    "health": 63,
+    "attack": 60
+  },
+  {
+    "id": 18,
+    "name": "Pidgeot",
+    "type": "normal/flying",
+    "health": 83,
+    "attack": 80
+  },
+  {
+    "id": 19,
+    "name": "Rattata",
+    "type": "normal",
+    "health": 30,
+    "attack": 56
+  },
+  {
+    "id": 20,
+    "name": "Raticate",
+    "type": "normal",
+    "health": 55,
+    "attack": 81
+  },
+  {
+    "id": 21,
+    "name": "Spearow",
+    "type": "normal/flying",
+    "health": 40,
+    "attack": 60
+  },
+  {
+    "id": 22,
+    "name": "Fearow",
+    "type": "normal/flying",
+    "health": 65,
+    "attack": 90
+  },
+  {
+    "id": 23,
+    "name": "Ekans",
+    "type": "poison",
+    "health": 35,
+    "attack": 60
+  },
+  {
+    "id": 24,
+    "name": "Arbok",
+    "type": "poison",
+    "health": 60,
+    "attack": 95
+  },
+  {
+    "id": 25,
+    "name": "Pikachu",
+    "type": "electric",
+    "health": 35,
+    "attack": 55
+  },
+  {
+    "id": 26,
+    "name": "Raichu",
+    "type": "electric",
+    "health": 60,
+    "attack": 90
+  },
+  {
+    "id": 27,
+    "name": "Sandshrew",
+    "type": "ground",
+    "health": 50,
+    "attack": 75
+  },
+  {
+    "id": 28,
+    "name": "Sandslash",
+    "type": "ground",
+    "health": 75,
+    "attack": 100
+  },
+  {
+    "id": 29,
+    "name": "Nidoran-f",
+    "type": "poison",
+    "health": 55,
+    "attack": 47
+  },
+  {
+    "id": 30,
+    "name": "Nidorina",
+    "type": "poison",
+    "health": 70,
+    "attack": 62
+  },
+  {
+    "id": 31,
+    "name": "Nidoqueen",
+    "type": "poison/ground",
+    "health": 90,
+    "attack": 92
+  },
+  {
+    "id": 32,
+    "name": "Nidoran-m",
+    "type": "poison",
+    "health": 46,
+    "attack": 57
+  },
+  {
+    "id": 33,
+    "name": "Nidorino",
+    "type": "poison",
+    "health": 61,
+    "attack": 72
+  },
+  {
+    "id": 34,
+    "name": "Nidoking",
+    "type": "poison/ground",
+    "health": 81,
+    "attack": 102
+  },
+  {
+    "id": 35,
+    "name": "Clefairy",
+    "type": "fairy",
+    "health": 70,
+    "attack": 45
+  },
+  {
+    "id": 36,
+    "name": "Clefable",
+    "type": "fairy",
+    "health": 95,
+    "attack": 70
+  },
+  {
+    "id": 37,
+    "name": "Vulpix",
+    "type": "fire",
+    "health": 38,
+    "attack": 41
+  },
+  {
+    "id": 38,
+    "name": "Ninetales",
+    "type": "fire",
+    "health": 73,
+    "attack": 76
+  },
+  {
+    "id": 39,
+    "name": "Jigglypuff",
+    "type": "normal/fairy",
+    "health": 115,
+    "attack": 45
+  },
+  {
+    "id": 40,
+    "name": "Wigglytuff",
+    "type": "normal/fairy",
+    "health": 140,
+    "attack": 70
+  },
+  {
+    "id": 41,
+    "name": "Zubat",
+    "type": "poison/flying",
+    "health": 40,
+    "attack": 45
+  },
+  {
+    "id": 42,
+    "name": "Golbat",
+    "type": "poison/flying",
+    "health": 75,
+    "attack": 80
+  },
+  {
+    "id": 43,
+    "name": "Oddish",
+    "type": "grass/poison",
+    "health": 45,
+    "attack": 50
+  },
+  {
+    "id": 44,
+    "name": "Gloom",
+    "type": "grass/poison",
+    "health": 60,
+    "attack": 65
+  },
+  {
+    "id": 45,
+    "name": "Vileplume",
+    "type": "grass/poison",
+    "health": 75,
+    "attack": 80
+  },
+  {
+    "id": 46,
+    "name": "Paras",
+    "type": "bug/grass",
+    "health": 35,
+    "attack": 70
+  },
+  {
+    "id": 47,
+    "name": "Parasect",
+    "type": "bug/grass",
+    "health": 60,
+    "attack": 95
+  },
+  {
+    "id": 48,
+    "name": "Venonat",
+    "type": "bug/poison",
+    "health": 60,
+    "attack": 55
+  },
+  {
+    "id": 49,
+    "name": "Venomoth",
+    "type": "bug/poison",
+    "health": 70,
+    "attack": 65
+  },
+  {
+    "id": 50,
+    "name": "Diglett",
+    "type": "ground",
+    "health": 10,
+    "attack": 55
+  },
+  {
+    "id": 51,
+    "name": "Dugtrio",
+    "type": "ground",
+    "health": 35,
+    "attack": 100
+  },
+  {
+    "id": 52,
+    "name": "Meowth",
+    "type": "normal",
+    "health": 40,
+    "attack": 45
+  },
+  {
+    "id": 53,
+    "name": "Persian",
+    "type": "normal",
+    "health": 65,
+    "attack": 70
+  },
+  {
+    "id": 54,
+    "name": "Psyduck",
+    "type": "water",
+    "health": 50,
+    "attack": 52
+  },
+  {
+    "id": 55,
+    "name": "Golduck",
+    "type": "water",
+    "health": 80,
+    "attack": 82
+  },
+  {
+    "id": 56,
+    "name": "Mankey",
+    "type": "fighting",
+    "health": 40,
+    "attack": 80
+  },
+  {
+    "id": 57,
+    "name": "Primeape",
+    "type": "fighting",
+    "health": 65,
+    "attack": 105
+  },
+  {
+    "id": 58,
+    "name": "Growlithe",
+    "type": "fire",
+    "health": 55,
+    "attack": 70
+  },
+  {
+    "id": 59,
+    "name": "Arcanine",
+    "type": "fire",
+    "health": 90,
+    "attack": 110
+  },
+  {
+    "id": 60,
+    "name": "Poliwag",
+    "type": "water",
+    "health": 40,
+    "attack": 50
+  },
+  {
+    "id": 61,
+    "name": "Poliwhirl",
+    "type": "water",
+    "health": 65,
+    "attack": 65
+  },
+  {
+    "id": 62,
+    "name": "Poliwrath",
+    "type": "water/fighting",
+    "health": 90,
+    "attack": 95
+  },
+  {
+    "id": 63,
+    "name": "Abra",
+    "type": "psychic",
+    "health": 25,
+    "attack": 20
+  },
+  {
+    "id": 64,
+    "name": "Kadabra",
+    "type": "psychic",
+    "health": 40,
+    "attack": 35
+  },
+  {
+    "id": 65,
+    "name": "Alakazam",
+    "type": "psychic",
+    "health": 55,
+    "attack": 50
+  },
+  {
+    "id": 66,
+    "name": "Machop",
+    "type": "fighting",
+    "health": 70,
+    "attack": 80
+  },
+  {
+    "id": 67,
+    "name": "Machoke",
+    "type": "fighting",
+    "health": 80,
+    "attack": 100
+  },
+  {
+    "id": 68,
+    "name": "Machamp",
+    "type": "fighting",
+    "health": 90,
+    "attack": 130
+  },
+  {
+    "id": 69,
+    "name": "Bellsprout",
+    "type": "grass/poison",
+    "health": 50,
+    "attack": 75
+  },
+  {
+    "id": 70,
+    "name": "Weepinbell",
+    "type": "grass/poison",
+    "health": 65,
+    "attack": 90
+  },
+  {
+    "id": 71,
+    "name": "Victreebel",
+    "type": "grass/poison",
+    "health": 80,
+    "attack": 105
+  },
+  {
+    "id": 72,
+    "name": "Tentacool",
+    "type": "water/poison",
+    "health": 40,
+    "attack": 40
+  },
+  {
+    "id": 73,
+    "name": "Tentacruel",
+    "type": "water/poison",
+    "health": 80,
+    "attack": 70
+  },
+  {
+    "id": 74,
+    "name": "Geodude",
+    "type": "rock/ground",
+    "health": 40,
+    "attack": 80
+  },
+  {
+    "id": 75,
+    "name": "Graveler",
+    "type": "rock/ground",
+    "health": 55,
+    "attack": 95
+  },
+  {
+    "id": 76,
+    "name": "Golem",
+    "type": "rock/ground",
+    "health": 80,
+    "attack": 120
+  },
+  {
+    "id": 77,
+    "name": "Ponyta",
+    "type": "fire",
+    "health": 50,
+    "attack": 85
+  },
+  {
+    "id": 78,
+    "name": "Rapidash",
+    "type": "fire",
+    "health": 65,
+    "attack": 100
+  },
+  {
+    "id": 79,
+    "name": "Slowpoke",
+    "type": "water/psychic",
+    "health": 90,
+    "attack": 65
+  },
+  {
+    "id": 80,
+    "name": "Slowbro",
+    "type": "water/psychic",
+    "health": 95,
+    "attack": 75
+  },
+  {
+    "id": 81,
+    "name": "Magnemite",
+    "type": "electric/steel",
+    "health": 25,
+    "attack": 35
+  },
+  {
+    "id": 82,
+    "name": "Magneton",
+    "type": "electric/steel",
+    "health": 50,
+    "attack": 60
+  },
+  {
+    "id": 83,
+    "name": "Farfetchd",
+    "type": "normal/flying",
+    "health": 52,
+    "attack": 90
+  },
+  {
+    "id": 84,
+    "name": "Doduo",
+    "type": "normal/flying",
+    "health": 35,
+    "attack": 85
+  },
+  {
+    "id": 85,
+    "name": "Dodrio",
+    "type": "normal/flying",
+    "health": 60,
+    "attack": 110
+  },
+  {
+    "id": 86,
+    "name": "Seel",
+    "type": "water",
+    "health": 65,
+    "attack": 45
+  },
+  {
+    "id": 87,
+    "name": "Dewgong",
+    "type": "water/ice",
+    "health": 90,
+    "attack": 70
+  },
+  {
+    "id": 88,
+    "name": "Grimer",
+    "type": "poison",
+    "health": 80,
+    "attack": 80
+  },
+  {
+    "id": 89,
+    "name": "Muk",
+    "type": "poison",
+    "health": 105,
+    "attack": 105
+  },
+  {
+    "id": 90,
+    "name": "Shellder",
+    "type": "water",
+    "health": 30,
+    "attack": 65
+  },
+  {
+    "id": 91,
+    "name": "Cloyster",
+    "type": "water/ice",
+    "health": 50,
+    "attack": 95
+  },
+  {
+    "id": 92,
+    "name": "Gastly",
+    "type": "ghost/poison",
+    "health": 30,
+    "attack": 35
+  },
+  {
+    "id": 93,
+    "name": "Haunter",
+    "type": "ghost/poison",
+    "health": 45,
+    "attack": 50
+  },
+  {
+    "id": 94,
+    "name": "Gengar",
+    "type": "ghost/poison",
+    "health": 60,
+    "attack": 65
+  },
+  {
+    "id": 95,
+    "name": "Onix",
+    "type": "rock/ground",
+    "health": 35,
+    "attack": 45
+  },
+  {
+    "id": 96,
+    "name": "Drowzee",
+    "type": "psychic",
+    "health": 60,
+    "attack": 48
+  },
+  {
+    "id": 97,
+    "name": "Hypno",
+    "type": "psychic",
+    "health": 85,
+    "attack": 73
+  },
+  {
+    "id": 98,
+    "name": "Krabby",
+    "type": "water",
+    "health": 30,
+    "attack": 105
+  },
+  {
+    "id": 99,
+    "name": "Kingler",
+    "type": "water",
+    "health": 55,
+    "attack": 130
+  },
+  {
+    "id": 100,
+    "name": "Voltorb",
+    "type": "electric",
+    "health": 40,
+    "attack": 30
+  },
+  {
+    "id": 101,
+    "name": "Electrode",
+    "type": "electric",
+    "health": 60,
+    "attack": 50
+  },
+  {
+    "id": 102,
+    "name": "Exeggcute",
+    "type": "grass/psychic",
+    "health": 60,
+    "attack": 40
+  },
+  {
+    "id": 103,
+    "name": "Exeggutor",
+    "type": "grass/psychic",
+    "health": 95,
+    "attack": 95
+  },
+  {
+    "id": 104,
+    "name": "Cubone",
+    "type": "ground",
+    "health": 50,
+    "attack": 50
+  },
+  {
+    "id": 105,
+    "name": "Marowak",
+    "type": "ground",
+    "health": 60,
+    "attack": 80
+  },
+  {
+    "id": 106,
+    "name": "Hitmonlee",
+    "type": "fighting",
+    "health": 50,
+    "attack": 120
+  },
+  {
+    "id": 107,
+    "name": "Hitmonchan",
+    "type": "fighting",
+    "health": 50,
+    "attack": 105
+  },
+  {
+    "id": 108,
+    "name": "Lickitung",
+    "type": "normal",
+    "health": 90,
+    "attack": 55
+  },
+  {
+    "id": 109,
+    "name": "Koffing",
+    "type": "poison",
+    "health": 40,
+    "attack": 65
+  },
+  {
+    "id": 110,
+    "name": "Weezing",
+    "type": "poison",
+    "health": 65,
+    "attack": 90
+  },
+  {
+    "id": 111,
+    "name": "Rhyhorn",
+    "type": "ground/rock",
+    "health": 80,
+    "attack": 85
+  },
+  {
+    "id": 112,
+    "name": "Rhydon",
+    "type": "ground/rock",
+    "health": 105,
+    "attack": 130
+  },
+  {
+    "id": 113,
+    "name": "Chansey",
+    "type": "normal",
+    "health": 250,
+    "attack": 5
+  },
+  {
+    "id": 114,
+    "name": "Tangela",
+    "type": "grass",
+    "health": 65,
+    "attack": 55
+  },
+  {
+    "id": 115,
+    "name": "Kangaskhan",
+    "type": "normal",
+    "health": 105,
+    "attack": 95
+  },
+  {
+    "id": 116,
+    "name": "Horsea",
+    "type": "water",
+    "health": 30,
+    "attack": 40
+  },
+  {
+    "id": 117,
+    "name": "Seadra",
+    "type": "water",
+    "health": 55,
+    "attack": 65
+  },
+  {
+    "id": 118,
+    "name": "Goldeen",
+    "type": "water",
+    "health": 45,
+    "attack": 67
+  },
+  {
+    "id": 119,
+    "name": "Seaking",
+    "type": "water",
+    "health": 80,
+    "attack": 92
+  },
+  {
+    "id": 120,
+    "name": "Staryu",
+    "type": "water",
+    "health": 30,
+    "attack": 45
+  },
+  {
+    "id": 121,
+    "name": "Starmie",
+    "type": "water/psychic",
+    "health": 60,
+    "attack": 75
+  },
+  {
+    "id": 122,
+    "name": "Mr-mime",
+    "type": "psychic/fairy",
+    "health": 40,
+    "attack": 45
+  },
+  {
+    "id": 123,
+    "name": "Scyther",
+    "type": "bug/flying",
+    "health": 70,
+    "attack": 110
+  },
+  {
+    "id": 124,
+    "name": "Jynx",
+    "type": "ice/psychic",
+    "health": 65,
+    "attack": 50
+  },
+  {
+    "id": 125,
+    "name": "Electabuzz",
+    "type": "electric",
+    "health": 65,
+    "attack": 83
+  },
+  {
+    "id": 126,
+    "name": "Magmar",
+    "type": "fire",
+    "health": 65,
+    "attack": 95
+  },
+  {
+    "id": 127,
+    "name": "Pinsir",
+    "type": "bug",
+    "health": 65,
+    "attack": 125
+  },
+  {
+    "id": 128,
+    "name": "Tauros",
+    "type": "normal",
+    "health": 75,
+    "attack": 100
+  },
+  {
+    "id": 129,
+    "name": "Magikarp",
+    "type": "water",
+    "health": 20,
+    "attack": 10
+  },
+  {
+    "id": 130,
+    "name": "Gyarados",
+    "type": "water/flying",
+    "health": 95,
+    "attack": 125
+  },
+  {
+    "id": 131,
+    "name": "Lapras",
+    "type": "water/ice",
+    "health": 130,
+    "attack": 85
+  },
+  {
+    "id": 132,
+    "name": "Ditto",
+    "type": "normal",
+    "health": 48,
+    "attack": 48
+  },
+  {
+    "id": 133,
+    "name": "Eevee",
+    "type": "normal",
+    "health": 55,
+    "attack": 55
+  },
+  {
+    "id": 134,
+    "name": "Vaporeon",
+    "type": "water",
+    "health": 130,
+    "attack": 65
+  },
+  {
+    "id": 135,
+    "name": "Jolteon",
+    "type": "electric",
+    "health": 65,
+    "attack": 65
+  },
+  {
+    "id": 136,
+    "name": "Flareon",
+    "type": "fire",
+    "health": 65,
+    "attack": 130
+  },
+  {
+    "id": 137,
+    "name": "Porygon",
+    "type": "normal",
+    "health": 65,
+    "attack": 60
+  },
+  {
+    "id": 138,
+    "name": "Omanyte",
+    "type": "rock/water",
+    "health": 35,
+    "attack": 40
+  },
+  {
+    "id": 139,
+    "name": "Omastar",
+    "type": "rock/water",
+    "health": 70,
+    "attack": 60
+  },
+  {
+    "id": 140,
+    "name": "Kabuto",
+    "type": "rock/water",
+    "health": 30,
+    "attack": 80
+  },
+  {
+    "id": 141,
+    "name": "Kabutops",
+    "type": "rock/water",
+    "health": 60,
+    "attack": 115
+  },
+  {
+    "id": 142,
+    "name": "Aerodactyl",
+    "type": "rock/flying",
+    "health": 80,
+    "attack": 105
+  },
+  {
+    "id": 143,
+    "name": "Snorlax",
+    "type": "normal",
+    "health": 160,
+    "attack": 110
+  },
+  {
+    "id": 144,
+    "name": "Articuno",
+    "type": "ice/flying",
+    "health": 90,
+    "attack": 85
+  },
+  {
+    "id": 145,
+    "name": "Zapdos",
+    "type": "electric/flying",
+    "health": 90,
+    "attack": 90
+  },
+  {
+    "id": 146,
+    "name": "Moltres",
+    "type": "fire/flying",
+    "health": 90,
+    "attack": 100
+  },
+  {
+    "id": 147,
+    "name": "Dratini",
+    "type": "dragon",
+    "health": 41,
+    "attack": 64
+  },
+  {
+    "id": 148,
+    "name": "Dragonair",
+    "type": "dragon",
+    "health": 61,
+    "attack": 84
+  },
+  {
+    "id": 149,
+    "name": "Dragonite",
+    "type": "dragon/flying",
+    "health": 91,
+    "attack": 134
+  },
+  {
+    "id": 150,
+    "name": "Mewtwo",
+    "type": "psychic",
+    "health": 106,
+    "attack": 110
+  },
+  {
+    "id": 151,
+    "name": "Mew",
+    "type": "psychic",
+    "health": 100,
+    "attack": 100
+  }
+]
